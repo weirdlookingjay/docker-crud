@@ -1,0 +1,10 @@
+{
+    "name": "root/current",
+    "require": {
+        "fxp/composer-asset-plugin": "*",
+        "rivsen/hello-world": "0.1.0"
+    },
+    "config": {
+        "vendor-dir": "../../../var/www/vendor"
+    }
+}
